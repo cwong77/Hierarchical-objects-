@@ -1,0 +1,20 @@
+﻿  app_window.cpp
+c:\users\c.wong\documents\visual studio 2015\projects\graphics\project1\glutapp3dobjloader\soplane.h(48): warning C4305: '+=': truncation from 'double' to 'float'
+c:\users\c.wong\documents\visual studio 2015\projects\graphics\project1\glutapp3dobjloader\soplane.h(49): warning C4305: '-=': truncation from 'double' to 'float'
+c:\users\c.wong\documents\visual studio 2015\projects\graphics\project1\glutapp3dobjloader\app_window.cpp(392): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\c.wong\documents\visual studio 2015\projects\graphics\project1\glutapp3dobjloader\app_window.cpp(460): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\c.wong\documents\visual studio 2015\projects\graphics\project1\glutapp3dobjloader\app_window.cpp(530): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\c.wong\documents\visual studio 2015\projects\graphics\project1\glutapp3dobjloader\app_window.cpp(600): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\c.wong\documents\visual studio 2015\projects\graphics\project1\glutapp3dobjloader\app_window.cpp(668): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\c.wong\documents\visual studio 2015\projects\graphics\project1\glutapp3dobjloader\app_window.cpp(673): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\c.wong\documents\visual studio 2015\projects\graphics\project1\glutapp3dobjloader\app_window.cpp(737): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\c.wong\documents\visual studio 2015\projects\graphics\project1\glutapp3dobjloader\app_window.cpp(742): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\c.wong\documents\visual studio 2015\projects\graphics\project1\glutapp3dobjloader\app_window.cpp(806): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\c.wong\documents\visual studio 2015\projects\graphics\project1\glutapp3dobjloader\app_window.cpp(816): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\c.wong\documents\visual studio 2015\projects\graphics\project1\glutapp3dobjloader\app_window.cpp(875): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\c.wong\documents\visual studio 2015\projects\graphics\project1\glutapp3dobjloader\app_window.cpp(885): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\c.wong\documents\visual studio 2015\projects\graphics\project1\glutapp3dobjloader\app_window.cpp(943): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\c.wong\documents\visual studio 2015\projects\graphics\project1\glutapp3dobjloader\app_window.cpp(990): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\c.wong\documents\visual studio 2015\projects\graphics\project1\glutapp3dobjloader\app_window.cpp(991): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  glutapp3d.vcxproj -> C:\Users\C.WONG\Documents\Visual Studio 2015\Projects\Graphics\Project1\glutapp3dObjLoader\visualc14\obj\objloader_Debug\objloader.exe
+  glutapp3d.vcxproj -> obj\objloader_Debug\objloader.pdb (Full PDB)
